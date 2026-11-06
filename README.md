@@ -21,7 +21,9 @@
  
   <a href="https://www.instagram.com/sokaio904?obrf=MWVpcG5lZDU0eWF4NQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sokaio904@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/kaio-silva-oliveira-20b729263?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kaio-silva-oliveira-20b729263?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kaiozim&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=kaiozim&langs_count=4&theme=light_github)
   
 </div>
 
