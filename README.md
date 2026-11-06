@@ -1,7 +1,8 @@
- ## Olá eu sou o Kaio Silva, Programador e Desenvolvedor IA!
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39ff14&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
+
+
 
 #
 
@@ -18,7 +19,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaio-silva-oliveira-20b729263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/sokaio904?obrf=MWVpcG5lZDU0eWF4NQ==)
   
-  ##
+  
  
 <div> 
  <h3 align="left">My Stack ~</h3>
