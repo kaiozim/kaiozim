@@ -1,16 +1,16 @@
-<div
- <a href="https://git.io/typing-svg">
+<div align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39ff14&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-<img align="center" alt="" src="photo_5148087795904614662_x.jpg)
-">
+
+<img align="center" alt="" src="./src/header-gif.gif">
 
 
 #
 
 <p align="center">Formado em curso técnico de Análise e Desenvolvimento de Sistemas. Fazendo bacharelado em Ciências da Computação na universidade UNICID. Atualmente trabalho com Desenvolvimento por fora, e estudo IA paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras, estou em busca de novas oportunidades e desafios para proporcionar o meu melhor e evoluir.
 
 #
  
